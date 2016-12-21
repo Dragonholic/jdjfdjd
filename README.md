@@ -24,7 +24,7 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
   <img src="https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png" alt="Screenshot"/>
 </p>
 <p align="center">
-  <img src="http://cfile29.uf.tistory.com/image/256CE638510246F32EA58A.png" alt="Screenshot"/>
+  <img src="https://learn.getgrav.org/user/pages/11.troubleshooting/01.page-not-found/error-404.png" alt="Screenshot"/>
 </p>
 
 That screenshot is fake, by the way. I never reached 2048 :smile:
